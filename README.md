@@ -46,30 +46,30 @@ Operaciones Asignadas:
 
 
 - Corriendo Servicio
-
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/App.java%20-%20parcialproxy%20-%20Visual%20Studio%20Code%2014_10_2021%2012_45_22%20p.%20m..png)
 
 - Corriendo Proxy 
 
-
-
-
-- Browser
-
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Parcialarep%20–%20App.java%2014_10_2021%2012_44_44%20p.%20m..png)
 
 
 
 - Instancia EC2 creada en AWS
 
-
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_46_09%20p.%20m..png)
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_46_21%20p.%20m..png)
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_46_50%20p.%20m..png)
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_47_18%20p.%20m..png)
 
 - Puertos en AWS
-
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_48_08%20p.%20m..png)
 
 
 - Prueba final desplegada en AWS
 
-
-
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_48_35%20p.%20m..png)
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_48_39%20p.%20m..png)
+![](https://github.com/AndresDa1302/ParcialArep2Corte/blob/master/images/Instancias%20_%20EC2%20Management%20Console%20-%20Opera%2014_10_2021%2012_48_54%20p.%20m..png)
 ## Contrucción 
 
 - IntelliJ
